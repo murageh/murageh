@@ -10,7 +10,7 @@
   <br />
   </h1>
   <h3  align="center">Practising languages: Java | HTML, CSS, JS, JQuery | React, Nextjs | PHP <h3>
-  <h4  align="center">📫 You can reach me via <a href="mailto:muragehdeveloper@gmail.com">email</a>.</h4>
+  <h4  align="center">📫 You can reach me via <a href="mailto:muragehdeveloper@gmail.com">email</a>. &nbsp; Visit my portfolio here 👉 <a href="https://murageh.co.ke"> Portfolio website</a>.</h4>
   
 <!-- ### Hi there 👋 -->
 
